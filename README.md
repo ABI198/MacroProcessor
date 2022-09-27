@@ -1,6 +1,6 @@
 # MacroProcessor
 Spesific macros we determined were placed in an assembly code in this project using C Programming Language.
-We take Source Code and convert it to Expanded Code.<br />
+We take Source Code and convert it to Expanded  Code.<br />
 <br />
 <b>Some Visuals About Application</b><br>
 * SourceCode <br />
